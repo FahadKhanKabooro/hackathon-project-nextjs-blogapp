@@ -8,15 +8,15 @@ export default function Footer() {
         <div className={classes.col}>
           <h2>About the App</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque,
-            voluptatibus dolores? Dolor asperiores ex iusto ad corrupti ipsa
-            esse eligendi facere quibusdam, vero rerum deserunt unde sint nemo
-            nobis dolore.
+            This is My Hackathon Project on Next js and i am using Next-auth for
+            authentication and bcrypt , using React-Toastify for errors and
+            Cloudinary for images and MongoDB for database
           </p>
         </div>
         <div className={classes.col}>
           <h2>Conatcts</h2>
           <span>Phone: +92 346 3640001</span>
+          <span>Roll NO: WMA-71320</span>
           <span>GitHub: https://github.com/FahadKhanKabooro</span>
         </div>
         <div className={classes.col}>
